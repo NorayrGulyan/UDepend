@@ -1,0 +1,15 @@
+{
+  "name": "com.ng.modules.udepend",
+  "version": "0.0.1",
+  "displayName": "UDepend",
+  "description": "UDepend",
+  "unity": "2020.3",
+  "author": {
+    "name": "Norayr Gulyan"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "dependencies": {
+
+  }
+}
